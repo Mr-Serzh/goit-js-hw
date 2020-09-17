@@ -38,6 +38,9 @@ if (orderPieces === null) {
 
 console.log(message);
 
+/////////////////////////////////////////////////////////////////////////////
+// variant 2
+
 // let message =
 //   credits < totalPrice
 //     ? ACCESS_DENIED
